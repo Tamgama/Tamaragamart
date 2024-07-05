@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Tamaragamart!
+- 👋 Hi, I’m @Tam!
 - 👀 I’m interested in Python and psychology!
-- 🌱 I’m currently learning and loving Python, MySQL, Oracle SQL...
+- 🌱 I’m currently learning and loving Python, SQL, Mongo, Flutter...
 
 <!---
 Tamaragamart/Tamaragamart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
